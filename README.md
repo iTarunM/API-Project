@@ -1,6 +1,8 @@
 # Little Lemon Restaurant Order Management API
 
-A comprehensive REST API backend for a Little Lemon restaurant order management system built with Django and Django REST Framework.
+A comprehensive REST API backend for a Little Lemon restaurant order management system built with Django and Django REST Framework. 
+
+Little Lemon's online-based order management system. This is back-end API that allows customers to browse food items, view the item of the day and place orders. Managers need to be able to update the item of the day and monitor orders and assign deliveries. And the delivery crew should be able to check the orders assigned to them and update an order once it’s delivered
 
 # Prerequisites
 - Python 3.13+
